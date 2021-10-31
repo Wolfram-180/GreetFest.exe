@@ -1,0 +1,10 @@
+14.11.2013 11:47:31 : ReadValue : Autorun : 1 : 1
+14.11.2013 11:47:31 : ReadValue : Login :  : usrg1983@gmail.com
+14.11.2013 11:47:31 : ReadValue : Password :  : 4E3D9119A09A430E960E
+14.11.2013 11:47:31 : ReadValue : CheckPeriod : 300 : 10
+14.11.2013 11:47:31 : ReadValue : StayOnTop : 1 : 0
+14.11.2013 11:47:33 : IsLogPass : OK
+14.11.2013 11:47:33 : GetKeysNewImgLink : http://greetfest.com/request.php?email=usrg1983@gmail.com&hash=dd29a13a7d92eb47c7468686446c6d2f&imgnew
+14.11.2013 11:47:33 : GetKeysAcceptedImgLink : http://greetfest.com/request.php?email=usrg1983@gmail.com&hash=dd29a13a7d92eb47c7468686446c6d2f&imgaccepted
+14.11.2013 11:47:34 : MakeMainWork : CNT_ACC_IMG : 1
+14.11.2013 11:47:34 : GetLinkForImgNumb : http://greetfest.com/request.php?email=usrg1983@gmail.com&hash=dd29a13a7d92eb47c7468686446c6d2f&getimg=24
